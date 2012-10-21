@@ -1,4 +1,4 @@
-hello
+kraig-helloworld
 =====
 
-my first github repo
+this is the repo for kraig's hello world app
