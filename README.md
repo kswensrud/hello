@@ -1,4 +1,4 @@
-kraig-helloworld2
+helloworld
 =====
 
-this is the repo for kraig's hello world app2
+first hello world app from the heroku getting started guide
